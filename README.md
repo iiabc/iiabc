@@ -3,4 +3,4 @@
 
 <p align="center"><img align="center" src="/assets/pet_icon.gif"></p>
 
-[MoreLang](https://github-readme-stats.vercel.app/api/top-langs/?username=iiabc&layout=pie)
+![MoreLang](https://github-readme-stats.vercel.app/api/top-langs/?username=iiabc&layout=pie)
